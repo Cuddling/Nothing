@@ -3,7 +3,7 @@
 
 ## General
 
-This tool was developed and used throughout 2022 to automatically secure hyped and limited products on various Shopify sites that did not utilize bot protection.
+This tool was developed and used to automatically secure hyped and limited products on various Shopify sites that did not utilize bot protection.
 
 Nothing has the ability to connect directly to Zephyr monitors for its blazing fast product feed and **requires a valid Zephyr AIO license key.** 
 
