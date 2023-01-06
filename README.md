@@ -5,7 +5,9 @@
 
 This tool was developed and used throughout 2022 to automatically secure hyped and limited products on various Shopify sites that did not utilize bot protection.
 
-Nothing has the ability to connect directly to Zephyr monitors for its product feed and **requires a valid Zephyr AIO license key.** It's worth noting that you can only have one connection to Zephyr's monitor websocket server at a time per license key — meaning you **cannot reuse the same license key** to create multiple Nothing instances.
+Nothing has the ability to connect directly to Zephyr monitors for its blazing fast product feed and **requires a valid Zephyr AIO license key.** 
+
+It's worth noting that you can only have one connection to Zephyr's monitor websocket server at a time per license key — meaning you **cannot reuse the same license key** to create multiple Nothing instances.
 
 ## Support & Documentation
 
